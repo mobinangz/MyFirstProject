@@ -1,9 +1,16 @@
-h1{color:slategrey}
+h1{color:black;}
 h2 {background-color: buttonface}
-body {text-align: right }
+body {text-align: right}
 img{
    width: 300px; 
    border: 5px solid appworkspace;
 }
-#1 {background-color: activecaption}
-div ()
+h2 {color: darkblue;}
+button{background-color: lavender;}
+.part_1{background-image: linear-gradient(to top right,lightskyblue,darkslategray)
+}
+.part_2{background-image:linear-gradient(to bottom left,silver,slategrey) }
+.part_3{background-image:linear-gradient(to top right,lightslategray,lightskyblue)}
+.part_4{background-image:linear-gradient(to bottom left,orange,lightyellow)}
+.part_5{background-image:linear-gradient(to top right,lightblue,lavender)}
+.part_6{background-image:linear-gradient(to top right,lightseagreen,seagreen)}
